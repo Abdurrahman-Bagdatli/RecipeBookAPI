@@ -11,5 +11,5 @@ RecipeBookAPI is a simple and efficient API built with Flask that allows users t
 - **Flask** for building the API.
 - **MySQL** for the database.
 - **PyMySQL** for database connectivity.
-- **Flask-CORS** for handling cross-origin requests.
+- **Flask-CORS** The modules (origin) of incoming applications and which HTTP methods (PUT, DELETE, GET, etc.) can be used are checked..
 
